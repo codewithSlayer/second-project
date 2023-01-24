@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/second-project/static/js/main.c59e50da.js",
+    "index.html": "/second-project/index.html",
+    "main.c59e50da.js.map": "/second-project/static/js/main.c59e50da.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.c59e50da.js"
+  ]
+}
